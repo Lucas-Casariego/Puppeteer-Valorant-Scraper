@@ -1,4 +1,4 @@
-# Valorant Pro Player Settings Scraper
+# Valorant Pro Players Settings Scraper
 
 This repository contains a web scraper built with Puppeteer and TypeScript that retrieves Valorant pro player settings from prosettings.net. 
 The scraper collects data such as monitor refresh rate, DPI, sensitivity, eDPI, and scoped sensitivity for each player and saves it as a JSON file. 
