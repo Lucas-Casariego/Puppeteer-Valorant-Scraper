@@ -1,0 +1,2130 @@
+[
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.5,
+    "eDPI": 400,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.25,
+    "eDPI": 200,
+    "scopedSens": 1.1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.428,
+    "eDPI": 171.2,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.32,
+    "eDPI": 256,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.28,
+    "eDPI": 224,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.35,
+    "eDPI": 280,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.244,
+    "eDPI": 195.2,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.135,
+    "eDPI": 216,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.45,
+    "eDPI": 180,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.5,
+    "eDPI": 400,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.49,
+    "eDPI": 392,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.42,
+    "eDPI": 336,
+    "scopedSens": 1.009
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.5,
+    "eDPI": 200,
+    "scopedSens": 1.3
+  },
+  {
+    "hz": 1000,
+    "dpi": 450,
+    "sens": 0.55,
+    "eDPI": 247.5,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.75,
+    "eDPI": 300,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.755,
+    "eDPI": 1208,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.44,
+    "eDPI": 176,
+    "scopedSens": 0.88
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.45,
+    "eDPI": 360,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.37,
+    "eDPI": 148,
+    "scopedSens": 0
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.35,
+    "eDPI": 140,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.25,
+    "eDPI": 200,
+    "scopedSens": 0
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.156,
+    "eDPI": 124.8,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 0.82
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.35,
+    "eDPI": 280,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.217,
+    "eDPI": 173.6,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.45,
+    "eDPI": 180,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.52,
+    "eDPI": 208,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.74,
+    "eDPI": 296,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.41,
+    "eDPI": 164,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.25,
+    "eDPI": 200,
+    "scopedSens": 0.95
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 1.35,
+    "eDPI": 140,
+    "scopedSens": 1
+  },
+  {
+    "hz": 0,
+    "dpi": 0,
+    "sens": 0,
+    "eDPI": 0,
+    "scopedSens": 0
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.27,
+    "eDPI": 216,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.4,
+    "eDPI": 320,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.15,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 1.572,
+    "eDPI": 1257.6,
+    "scopedSens": 0.948
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.23,
+    "eDPI": 184,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.66,
+    "eDPI": 264,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.35,
+    "eDPI": 280,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.265,
+    "eDPI": 212,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.27,
+    "eDPI": 216,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.22,
+    "eDPI": 176,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.09,
+    "eDPI": 144,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.35,
+    "eDPI": 280,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 0.89
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.55,
+    "eDPI": 220,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.27,
+    "eDPI": 216,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.6,
+    "eDPI": 240,
+    "scopedSens": 0.9
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.37,
+    "eDPI": 296,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.1,
+    "eDPI": 160,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 700,
+    "sens": 0.251,
+    "eDPI": 175.7,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.55,
+    "eDPI": 220,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.534,
+    "eDPI": 213.6,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.5,
+    "eDPI": 400,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.58,
+    "eDPI": 232,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.346,
+    "eDPI": 276.8,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.56,
+    "eDPI": 224,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.485,
+    "eDPI": 194,
+    "scopedSens": 0.76
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.58,
+    "eDPI": 232,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.52,
+    "eDPI": 208,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.4,
+    "eDPI": 160,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.52,
+    "eDPI": 208,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.211,
+    "eDPI": 168.8,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.234,
+    "eDPI": 187,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.32,
+    "eDPI": 256,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.503,
+    "eDPI": 201,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.33,
+    "eDPI": 266.4,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.196,
+    "eDPI": 156.8,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.33,
+    "eDPI": 264,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.141,
+    "eDPI": 225.6,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.377,
+    "eDPI": 301.6,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.4,
+    "eDPI": 320,
+    "scopedSens": 1.1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.6,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 4000,
+    "dpi": 800,
+    "sens": 0.45,
+    "eDPI": 360,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.15,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.27,
+    "eDPI": 216,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.32,
+    "eDPI": 256,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.45,
+    "eDPI": 360,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.28,
+    "eDPI": 224,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.16,
+    "eDPI": 256,
+    "scopedSens": 0.825
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.52,
+    "eDPI": 416,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.375,
+    "eDPI": 300,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.214,
+    "eDPI": 171.2,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.28,
+    "eDPI": 224,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.27,
+    "eDPI": 216,
+    "scopedSens": 0.9
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.355,
+    "eDPI": 284,
+    "scopedSens": 0.8
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.45,
+    "eDPI": 360,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.23,
+    "eDPI": 368,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.28,
+    "eDPI": 224,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.4,
+    "eDPI": 320,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.32,
+    "eDPI": 256,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.32,
+    "eDPI": 256,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.45,
+    "eDPI": 180,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.35,
+    "eDPI": 280,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.2,
+    "eDPI": 320,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.42,
+    "eDPI": 168,
+    "scopedSens": 0.9
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.56,
+    "eDPI": 224,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.57,
+    "eDPI": 228,
+    "scopedSens": 0.8
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 0.975
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.314,
+    "eDPI": 251.2,
+    "scopedSens": 0
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.5,
+    "eDPI": 200,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.4,
+    "eDPI": 320,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.628,
+    "eDPI": 251.2,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.175,
+    "eDPI": 176,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.454,
+    "eDPI": 181.6,
+    "scopedSens": 0.9
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.408,
+    "eDPI": 163.2,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.58,
+    "eDPI": 232,
+    "scopedSens": 0.875
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.5,
+    "eDPI": 400,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.45,
+    "eDPI": 180,
+    "scopedSens": 0.7
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.335,
+    "eDPI": 268,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.7,
+    "eDPI": 280,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.45,
+    "eDPI": 180,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.15,
+    "eDPI": 240,
+    "scopedSens": 0.9
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.15,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 2.6,
+    "eDPI": 1040,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.36,
+    "eDPI": 288,
+    "scopedSens": 1.1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.82,
+    "eDPI": 328,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.125,
+    "eDPI": 200,
+    "scopedSens": 1.009
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.5,
+    "eDPI": 200,
+    "scopedSens": 1
+  },
+  {
+    "hz": 0,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 1.3
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.34,
+    "eDPI": 272,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.44,
+    "eDPI": 176,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.15,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.49,
+    "eDPI": 196,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.85,
+    "eDPI": 340,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.45,
+    "eDPI": 180,
+    "scopedSens": 0.9
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.6,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.38,
+    "eDPI": 304,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.25,
+    "eDPI": 200,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.245,
+    "eDPI": 196,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.432,
+    "eDPI": 172.8,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 900,
+    "sens": 0.24,
+    "eDPI": 216,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.35,
+    "eDPI": 280,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.58,
+    "eDPI": 231,
+    "scopedSens": 0.85
+  },
+  {
+    "hz": 1000,
+    "dpi": 1000,
+    "sens": 0.339,
+    "eDPI": 339,
+    "scopedSens": 0.9
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.55,
+    "eDPI": 220,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.333,
+    "eDPI": 251.2,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.5,
+    "eDPI": 200,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.69,
+    "eDPI": 276,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.44,
+    "eDPI": 176,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.75,
+    "eDPI": 300,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.37,
+    "eDPI": 296,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.283,
+    "eDPI": 226.4,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.27,
+    "eDPI": 216,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.55,
+    "eDPI": 220,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.69,
+    "eDPI": 276,
+    "scopedSens": 0.69
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.8,
+    "eDPI": 320,
+    "scopedSens": 1.1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.25,
+    "eDPI": 200,
+    "scopedSens": 0.875
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.45,
+    "eDPI": 360,
+    "scopedSens": 0.85
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.277,
+    "eDPI": 221.6,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.25,
+    "eDPI": 400,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.508,
+    "eDPI": 406.4,
+    "scopedSens": 0.68
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.32,
+    "eDPI": 256,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.331,
+    "eDPI": 264.8,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.583,
+    "eDPI": 233,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.37,
+    "eDPI": 296,
+    "scopedSens": 1.4
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.43,
+    "eDPI": 172,
+    "scopedSens": 0.9
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.691,
+    "eDPI": 276,
+    "scopedSens": 1
+  },
+  {
+    "hz": 0,
+    "dpi": 800,
+    "sens": 0.4,
+    "eDPI": 320,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.629,
+    "eDPI": 251.6,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.25,
+    "eDPI": 400,
+    "scopedSens": 0.9
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.471,
+    "eDPI": 376.8,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.425,
+    "eDPI": 340,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.306,
+    "eDPI": 244.8,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.54,
+    "eDPI": 216,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.175,
+    "eDPI": 280,
+    "scopedSens": 0.8
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.27,
+    "eDPI": 216,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.28,
+    "eDPI": 224,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.17,
+    "eDPI": 272,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.235,
+    "eDPI": 188,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 900,
+    "sens": 0.46,
+    "eDPI": 414,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.2,
+    "eDPI": 320,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.66,
+    "eDPI": 264,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.5,
+    "eDPI": 200,
+    "scopedSens": 0.9
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.712,
+    "eDPI": 569.6,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.25,
+    "eDPI": 200,
+    "scopedSens": 0.7
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.635,
+    "eDPI": 508,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.4,
+    "eDPI": 320,
+    "scopedSens": 1
+  },
+  {
+    "hz": 0,
+    "dpi": 800,
+    "sens": 0.4,
+    "eDPI": 320,
+    "scopedSens": 0
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.45,
+    "eDPI": 360,
+    "scopedSens": 0.82
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.32,
+    "eDPI": 256,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.4,
+    "eDPI": 320,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.45,
+    "eDPI": 180,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.32,
+    "eDPI": 256,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.375,
+    "eDPI": 300,
+    "scopedSens": 0.9
+  },
+  {
+    "hz": 1000,
+    "dpi": 1400,
+    "sens": 0.272,
+    "eDPI": 380.8,
+    "scopedSens": 0.9
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.4,
+    "eDPI": 320,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.27,
+    "eDPI": 216,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.485,
+    "eDPI": 388,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.35,
+    "eDPI": 280,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.37,
+    "eDPI": 296,
+    "scopedSens": 0.9
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.86,
+    "eDPI": 688,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.7,
+    "eDPI": 560,
+    "scopedSens": 0.92
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.15,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.17,
+    "eDPI": 272,
+    "scopedSens": 0.75
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.32,
+    "eDPI": 256,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.45,
+    "eDPI": 360,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.173,
+    "eDPI": 138.4,
+    "scopedSens": 1
+  },
+  {
+    "hz": 4000,
+    "dpi": 800,
+    "sens": 0.45,
+    "eDPI": 360,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.725,
+    "eDPI": 290,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.365,
+    "eDPI": 292,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.81,
+    "eDPI": 324,
+    "scopedSens": 1.1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.48,
+    "eDPI": 388,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.226,
+    "eDPI": 180.8,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.244,
+    "eDPI": 195.2,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.4,
+    "eDPI": 320,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.32,
+    "eDPI": 256,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.38,
+    "eDPI": 304,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.35,
+    "eDPI": 280,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.785,
+    "eDPI": 314,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.384,
+    "eDPI": 307.2,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.27,
+    "eDPI": 216,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.47,
+    "eDPI": 376,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.175,
+    "eDPI": 140,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.4325,
+    "eDPI": 346,
+    "scopedSens": 0.7
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.34,
+    "eDPI": 272,
+    "scopedSens": 0.71
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.19,
+    "eDPI": 304,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.41,
+    "eDPI": 164,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.4,
+    "eDPI": 160,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.35,
+    "eDPI": 280,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.285,
+    "eDPI": 228,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.285,
+    "eDPI": 228,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.65,
+    "eDPI": 260,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.42,
+    "eDPI": 336,
+    "scopedSens": 0.91
+  },
+  {
+    "hz": 1000,
+    "dpi": 450,
+    "sens": 0.44,
+    "eDPI": 198,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.47,
+    "eDPI": 376,
+    "scopedSens": 1.15
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.41,
+    "eDPI": 328,
+    "scopedSens": 0
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.35,
+    "eDPI": 280,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.38,
+    "eDPI": 304,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.485,
+    "eDPI": 388,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.506,
+    "eDPI": 202.4,
+    "scopedSens": 0.852
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.27,
+    "eDPI": 216,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.125,
+    "eDPI": 200,
+    "scopedSens": 0.7
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.45,
+    "eDPI": 360,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.115,
+    "eDPI": 184,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 0,
+    "sens": 0,
+    "eDPI": 0,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.134,
+    "eDPI": 214.4,
+    "scopedSens": 0.95
+  },
+  {
+    "hz": 1000,
+    "dpi": 850,
+    "sens": 0.304,
+    "eDPI": 258.4,
+    "scopedSens": 1.013
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.6,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.244,
+    "eDPI": 195.2,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.35,
+    "eDPI": 280,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.69,
+    "eDPI": 276,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.566,
+    "eDPI": 226.4,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.67,
+    "eDPI": 268,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.39,
+    "eDPI": 312,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.534,
+    "eDPI": 213.6,
+    "scopedSens": 0.7
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.314,
+    "eDPI": 251.2,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.35,
+    "eDPI": 280,
+    "scopedSens": 0.75
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.6,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.48,
+    "eDPI": 384,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.55,
+    "eDPI": 220,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.68,
+    "eDPI": 272,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.4,
+    "eDPI": 320,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.5,
+    "eDPI": 200,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1200,
+    "sens": 0.337,
+    "eDPI": 404.4,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.62,
+    "eDPI": 248,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.7,
+    "eDPI": 280,
+    "scopedSens": 1.2
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.471,
+    "eDPI": 188.4,
+    "scopedSens": 0.8
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.5,
+    "eDPI": 400,
+    "scopedSens": 1.1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.628,
+    "eDPI": 251,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.46,
+    "eDPI": 184,
+    "scopedSens": 0.9
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.28,
+    "eDPI": 224,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.431,
+    "eDPI": 344.8,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.314,
+    "eDPI": 251.2,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.34,
+    "eDPI": 251.2,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.55,
+    "eDPI": 220,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.283,
+    "eDPI": 226.4,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.7,
+    "eDPI": 280,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.25,
+    "eDPI": 200,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.525,
+    "eDPI": 210,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.4,
+    "eDPI": 320,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.541,
+    "eDPI": 216,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.28,
+    "eDPI": 224,
+    "scopedSens": 1
+  },
+  {
+    "hz": 8000,
+    "dpi": 800,
+    "sens": 0.39,
+    "eDPI": 312,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.51,
+    "eDPI": 408,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.35,
+    "eDPI": 280,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.79,
+    "eDPI": 316,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.24,
+    "eDPI": 192,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.59,
+    "eDPI": 236,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.188,
+    "eDPI": 300.8,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.326,
+    "eDPI": 260.8,
+    "scopedSens": 1.15
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.72,
+    "eDPI": 288,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.3,
+    "eDPI": 240,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.4,
+    "eDPI": 320,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 400,
+    "sens": 0.42,
+    "eDPI": 168,
+    "scopedSens": 0.9
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.315,
+    "eDPI": 252,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.36,
+    "eDPI": 576,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 1600,
+    "sens": 0.14,
+    "eDPI": 224,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.32,
+    "eDPI": 256,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.387,
+    "eDPI": 309.6,
+    "scopedSens": 1
+  },
+  {
+    "hz": 1000,
+    "dpi": 800,
+    "sens": 0.35,
+    "eDPI": 280,
+    "scopedSens": 1
+  }
+]
